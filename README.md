@@ -1,1 +1,2 @@
 # adelfes-website
+<!DOCTYPE html>
